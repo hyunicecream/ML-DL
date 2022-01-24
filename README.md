@@ -1,9 +1,13 @@
-해당챕터에 대한 설명 및 코드, 노션링크를 활용하여 업데이트 할 예정입니다. 
+해당챕터에 대한 설명 및 코드 그리고 링크를 활용하여 업데이트 할 예정입니다. 
 
 # Machine Learning
 
 ## Chapter1. 분류(Classification)
 ### 1. KNN
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
 
 Link: [Velog][vurl]
 
@@ -12,21 +16,50 @@ Link: [Velog][vurl]
 Link: [Notion][url]
 
 [url]: https://caring-toad-773.notion.site/KNN-K-nearest-neighbor-c93bf5e57ca34e41890ff8f419ab949b
+  
+</div>
+</details>
+
 
 ### 2. Decision Tree
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
 Link: [Notion][url]
 
 [url]: https://caring-toad-773.notion.site/Decision-Tree-a831b65779ac491e97b036dc4a9ca0ae
+  
+</div>
+</details>
 
 ### 3. SVM
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+ 
 Link: [Notion][url]
 
 [url]: https://caring-toad-773.notion.site/SVM-Support-Vector-Machine-b767a83058014c14be41bcda63dfed66
+  
+</div>
+</details>
+
 
 ### 4. Logistic Regression
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
 Link: [Notion][url]
 
 [url]: https://caring-toad-773.notion.site/Logistic-51aca350f3764fd39a2a3188e525a5d0
+  
+</div>
+</details>
 
 ## Chapter2 - 군집 (**Update예정**)
 
@@ -42,7 +75,7 @@ Link: [Notion][url]
 ### 8. XGBoost (for regression)
 ### 9. XGBoost (for classification)
 ### 10. Light GBM
-
+---
 # Deep Learing(**Update예정**)
 
 ## Chapter1. TensorFlow, Keras
