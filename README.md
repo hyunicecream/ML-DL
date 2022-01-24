@@ -7,7 +7,7 @@
 
 Link: [Velog][vurl]
 
-[vurl]: https://velog.io/@hyunicecream/KNN"
+[vurl]: https://velog.io/@hyunicecream/KNN
 
 Link: [Notion][url]
 
