@@ -11,22 +11,22 @@ Link: [Velog][vurl]
 
 Link: [Notion][url]
 
-[url]: https://caring-toad-773.notion.site/KNN-K-nearest-neighbor-c93bf5e57ca34e41890ff8f419ab949b"
+[url]: https://caring-toad-773.notion.site/KNN-K-nearest-neighbor-c93bf5e57ca34e41890ff8f419ab949b
 
 ### 2. Decision Tree
 Link: [Notion][url]
 
-[url]: https://caring-toad-773.notion.site/Decision-Tree-a831b65779ac491e97b036dc4a9ca0ae"
+[url]: https://caring-toad-773.notion.site/Decision-Tree-a831b65779ac491e97b036dc4a9ca0ae
 
 ### 3. SVM
 Link: [Notion][url]
 
-[url]: https://caring-toad-773.notion.site/SVM-Support-Vector-Machine-b767a83058014c14be41bcda63dfed66"
+[url]: https://caring-toad-773.notion.site/SVM-Support-Vector-Machine-b767a83058014c14be41bcda63dfed66
 
 ### 4. Logistic Regression
 Link: [Notion][url]
 
-[url]: https://caring-toad-773.notion.site/Logistic-51aca350f3764fd39a2a3188e525a5d0"
+[url]: https://caring-toad-773.notion.site/Logistic-51aca350f3764fd39a2a3188e525a5d0
 
 ## Chapter2 - 군집 (**Update예정**)
 
