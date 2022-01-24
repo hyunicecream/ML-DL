@@ -3,12 +3,13 @@
 # Machine Learning
 
 ## Chapter1. 분류(Classification)
+
 ### 1. KNN
 
 <details>
 <summary>Click!</summary>
 <div markdown="1">
-
+  
 Link: [Velog][vurl]
 
 [vurl]: https://velog.io/@hyunicecream/KNN
