@@ -5,6 +5,10 @@
 ## Chapter1. 분류(Classification)
 ### 1. KNN
 
+Link: [Velog][vurl]
+
+[vurl]: https://velog.io/@hyunicecream/KNN"
+
 Link: [Notion][url]
 
 [url]: https://caring-toad-773.notion.site/KNN-K-nearest-neighbor-c93bf5e57ca34e41890ff8f419ab949b"
