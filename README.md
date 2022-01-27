@@ -14,9 +14,9 @@ Link: [Velog][vurl]
 
 [vurl]: https://velog.io/@hyunicecream/KNN
 
-Link: [Notion][url]
+Link: [Code][url]
 
-[url]: https://caring-toad-773.notion.site/KNN-K-nearest-neighbor-c93bf5e57ca34e41890ff8f419ab949b
+[url]: https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/KNN
   
 </div>
 </details>
