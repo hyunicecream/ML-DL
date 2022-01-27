@@ -27,10 +27,11 @@ Link: [Code][url]
 <details>
 <summary>Click!</summary>
 <div markdown="1">
-  
-Link: [Notion][url]
 
-[url]: https://caring-toad-773.notion.site/Decision-Tree-a831b65779ac491e97b036dc4a9ca0ae
+Link: [Velog][vurl]
+
+[vurl]: https://velog.io/@hyunicecream/Decision-Tree-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EB%82%98%EB%AC%B4
+  
   
 </div>
 </details>
@@ -41,10 +42,8 @@ Link: [Notion][url]
 <summary>Click!</summary>
 <div markdown="1">
  
-Link: [Notion][url]
-
-[url]: https://caring-toad-773.notion.site/SVM-Support-Vector-Machine-b767a83058014c14be41bcda63dfed66
-  
+ not yet 
+ 
 </div>
 </details>
 
@@ -55,9 +54,7 @@ Link: [Notion][url]
 <summary>Click!</summary>
 <div markdown="1">
   
-Link: [Notion][url]
-
-[url]: https://caring-toad-773.notion.site/Logistic-51aca350f3764fd39a2a3188e525a5d0
+not yet
   
 </div>
 </details>
