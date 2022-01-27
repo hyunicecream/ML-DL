@@ -10,7 +10,7 @@
 <summary>Click!</summary>
 <div markdown="1">
   
-Link: [Velog][vurl]
+Link: [Velog][vurl_KNN]
 
 [vurl_KNN]: https://velog.io/@hyunicecream/KNN
 
@@ -28,7 +28,7 @@ Link: [Code][url]
 <summary>Click!</summary>
 <div markdown="1">
 
-Link: [Velog][vurl]
+Link: [Velog][vurl_Dtree]
 
 [vurl_Dtree]: https://velog.io/@hyunicecream/Decision-Tree-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EB%82%98%EB%AC%B4
   
