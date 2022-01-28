@@ -31,8 +31,10 @@ Link: [Code][url]
 Link: [Velog][vurl_Dtree]
 
 [vurl_Dtree]: https://velog.io/@hyunicecream/Decision-Tree-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EB%82%98%EB%AC%B4
+ 
+Link: [Code][url]
   
-  
+[url]:  https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/Decision_Tree
 </div>
 </details>
 
