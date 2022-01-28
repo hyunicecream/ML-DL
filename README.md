@@ -44,8 +44,13 @@ Link: [Code][Dtree]
 <summary>Click!</summary>
 <div markdown="1">
  
- not yet 
- 
+Link: [Velog[vurl_SVM]
+
+[vurl_SVM]: https://velog.io/@hyunicecream/SVM-Support-Vector-Machine
+  
+Link: [Code][SVM]
+  
+[SVM] : https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/SVM
 </div>
 </details>
 
