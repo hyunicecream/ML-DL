@@ -1,4 +1,4 @@
-해당챕터에 대한 설명 및 코드 그리고 링크를 활용하여 업데이트 할 예정입니다. 
+해당챕터에 대한 설명을 Velog와  활용하여 업데이트 할 예정입니다. 
 
 # Machine Learning
 
@@ -44,13 +44,13 @@ Link: [Code][Dtree]
 <summary>Click!</summary>
 <div markdown="1">
  
-Link: [Velog[vurl_SVM]
+Link: [Velog][vurl_SVM]
 
 [vurl_SVM]: https://velog.io/@hyunicecream/SVM-Support-Vector-Machine
   
 Link: [Code][SVM]
   
-[SVM] : https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/SVM
+[SVM]: https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/SVM
 </div>
 </details>
 
@@ -72,7 +72,7 @@ not yet
 
 ### 1. 과잉적합(Overfitting) 문제와 Regularization
 ### 2. Confusion Matrix 방식에 의한 분류 알고리즘의 성능 측정
-### 3. 배깅, 부스팅 (Bagging, Boosting)
+### 3. 배깅, 부스팅 (Bagging, Boosting, Stacking)
 ### 4. Ramdom Forest (랜덤 포레스트)
 ### 5. AdaBoost
 ### 6. Gradient Boosting(for regression)
