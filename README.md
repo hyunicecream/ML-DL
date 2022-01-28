@@ -14,9 +14,9 @@ Link: [Velog][vurl_KNN]
 
 [vurl_KNN]: https://velog.io/@hyunicecream/KNN
 
-Link: [Code][url]
+Link: [Code][knn]
 
-[url]: https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/KNN
+[knn]: https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/KNN
   
 </div>
 </details>
@@ -32,9 +32,9 @@ Link: [Velog][vurl_Dtree]
 
 [vurl_Dtree]: https://velog.io/@hyunicecream/Decision-Tree-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EB%82%98%EB%AC%B4
  
-Link: [Code][url]
+Link: [Code][Dtree]
   
-[url]:  https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/Decision_Tree
+[Dtree]:  https://github.com/hyunicecream/ML-DL/tree/main/Machine%20learning/Classification/Decision_Tree
 </div>
 </details>
 
