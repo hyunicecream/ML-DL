@@ -60,9 +60,12 @@ Link: [Code][SVM]
 <details>
 <summary>Click!</summary>
 <div markdown="1">
+
+Link: [Velog][vurl_logistic]
   
-not yet
-  
+[vurl_logistic]: https://velog.io/@hyunicecream/Logistic-Regression
+
+
 </div>
 </details>
 
