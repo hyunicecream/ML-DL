@@ -64,7 +64,10 @@ Link: [Code][SVM]
 Link: [Velog][vurl_logistic]
   
 [vurl_logistic]: https://velog.io/@hyunicecream/Logistic-Regression
-
+  
+Code: [Code][logistic]
+  
+[logistic]: https://github.com/hyunicecream/ML-DL/tree/main/Classification/LogisticRegression
 
 </div>
 </details>
