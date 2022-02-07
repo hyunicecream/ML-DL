@@ -74,6 +74,27 @@ Code: [Code][logistic]
 
 ## Chapter2 - 군집 (**Update예정**)
 
+### 1. KMeans
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][kmeans]
+  
+[kmeans]: https://github.com/hyunicecream/ML-DL/blob/main/Clustering/KMeans/KMeans_Clustering.ipynb
+
+</div>
+</details>
+
+### 2. KMeans Elbow Method
+### 3. Silhouette
+### 4. KMeans++
+### 5. H-Cluster
+### 6. DBSCAN
+### 7. Means shift
+### 8. Gaussian Mixture Model(GMM)
+
 ## Chapter3.  앙상블(Ensemble)(**Update예정**)
 
 ### 1. 과잉적합(Overfitting) 문제와 Regularization
