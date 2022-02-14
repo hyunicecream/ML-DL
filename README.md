@@ -88,9 +88,57 @@ Code: [Code][kmeans]
 </details>
 
 ### 2. KMeans Elbow Method
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][KMeans Elbow Method]
+  
+[KMeans Elbow Method]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/KMeans%20Elbow%20Method
+
+</div>
+</details>
+
 ### 3. Silhouette
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][Silrouette]
+  
+[Silrouette]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/Silrouette
+
+</div>
+</details>
+
 ### 4. KMeans++
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][kmeans++]
+  
+[kmeans++]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/KMeans%2B%2B
+
+</div>
+</details>
+
 ### 5. H-Cluster
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][kmeans]
+  
+[kmeans]: https://github.com/hyunicecream/ML-DL/blob/main/Clustering/KMeans/KMeans_Clustering.ipynb
+
+</div>
+</details>
+
 ### 6. DBSCAN
 ### 7. Means shift
 ### 8. Gaussian Mixture Model(GMM)
