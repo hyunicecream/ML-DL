@@ -132,16 +132,51 @@ Code: [Code][kmeans++]
 <summary>Click!</summary>
 <div markdown="1">
   
-Code: [Code][kmeans]
+Code: [Code][h-cluster]
   
-[kmeans]: https://github.com/hyunicecream/ML-DL/blob/main/Clustering/KMeans/KMeans_Clustering.ipynb
+[h-cluster]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/H-Clustering
 
 </div>
 </details>
 
 ### 6. DBSCAN
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][dbscan]
+  
+[dbscan]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/DBSCAN
+
+</div>
+</details>
+
 ### 7. Means shift
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][meanshift]
+  
+[meanshift]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/MeanShift
+
+</div>
+</details>
+
 ### 8. Gaussian Mixture Model(GMM)
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][Gaussian]
+  
+[Gaussian]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/Gaussian
+
+</div>
+</details>
 
 ## Chapter3.  앙상블(Ensemble)(**Update예정**)
 
