@@ -1,5 +1,3 @@
-해당챕터에 대한 설명을 Velog와  활용하여 업데이트 할 예정입니다. 
-
 # Machine Learning
 
 ## Chapter1. 분류(Classification)
@@ -72,7 +70,7 @@ Code: [Code][logistic]
 </div>
 </details>
 
-## Chapter2 - 군집 (**Update예정**)
+## Chapter2 - 군집 
 
 ### 1. KMeans
 
