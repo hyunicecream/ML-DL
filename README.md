@@ -300,7 +300,7 @@ Code: [Code][인공경망]
 </details>
 
 ## Chapter3. CNN
-https://github.com/hyunicecream/ML-DL/tree/main/CNN
+
 <details>
 <summary>Click!</summary>
 <div markdown="1">
