@@ -313,4 +313,16 @@ Code: [Code][CNN]
 </details>
 
 ## Chapter4. LSTM
+
+<details>
+<summary>Click!</summary>
+<div markdown="1">
+  
+Code: [Code][LSTM]
+  
+[LSTM]: https://github.com/hyunicecream/ML-DL/tree/main/LSTM
+
+</div>
+</details>
+
 ## Chapter5. AutoEncoder
