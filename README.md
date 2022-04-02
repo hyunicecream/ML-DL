@@ -8,6 +8,9 @@
 
 ### 1. KNN
 
+- knn(mnist)
+- knn(iris)
+- knn(breastcancer)
 <details>
 <summary>Click!</summary>
 <div markdown="1">
@@ -26,6 +29,11 @@ Link: [Code][knn]
 
 ### 2. Decision Tree
 
+- DecisionTree(titanic)
+- DecisionTree(iris)
+- DecisionTree(income)
+- DecisionTree(breastcancer)
+
 <details>
 <summary>Click!</summary>
 <div markdown="1">
@@ -41,6 +49,9 @@ Link: [Code][Dtree]
 </details>
 
 ### 3. SVM
+
+- SVM(iris)
+- SVM(breastcancer)
 
 <details>
 <summary>Click!</summary>
@@ -58,6 +69,9 @@ Link: [Code][SVM]
 
 
 ### 4. Logistic Regression
+
+- Logistic(iris)
+- Logistic(diabetes)
 
 <details>
 <summary>Click!</summary>
