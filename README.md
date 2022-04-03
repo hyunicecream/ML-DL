@@ -11,7 +11,7 @@
 - knn(mnist)
 - knn(iris)
 - knn(breastcancer)
-<details>
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -24,7 +24,7 @@ Link: [Code][knn]
 [knn]: https://github.com/hyunicecream/ML-DL/tree/main/Classification/KNN
   
 </div>
-</details>
+</details> -->
 
 
 ### 2. Decision Tree
@@ -34,7 +34,7 @@ Link: [Code][knn]
 - DecisionTree(income)
 - DecisionTree(breastcancer)
 
-<details>
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
 
@@ -46,14 +46,14 @@ Link: [Code][Dtree]
   
 [Dtree]:  https://github.com/hyunicecream/ML-DL/tree/main/Classification/Dtree
 </div>
-</details>
+</details> -->
 
 ### 3. SVM
 
 - SVM(iris)
 - SVM(breastcancer)
 
-<details>
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
  
@@ -65,7 +65,7 @@ Link: [Code][SVM]
   
 [SVM]: https://github.com/hyunicecream/ML-DL/tree/main/Classification/SVM
 </div>
-</details>
+</details> -->
 
 
 ### 4. Logistic Regression
@@ -73,7 +73,7 @@ Link: [Code][SVM]
 - Logistic(iris)
 - Logistic(diabetes)
 
-<details>
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
 
@@ -86,13 +86,13 @@ Code: [Code][logistic]
 [logistic]: https://github.com/hyunicecream/ML-DL/tree/main/Classification/LogisticRegression
 
 </div>
-</details>
+</details> -->
 
 ## Chapter2 - 군집 
 
 ### 1. KMeans
 
-<details>
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -101,7 +101,7 @@ Code: [Code][kmeans]
 [kmeans]: https://github.com/hyunicecream/ML-DL/blob/main/Clustering/KMeans/KMeans_Clustering.ipynb
 
 </div>
-</details>
+</details> -->
 
 ### 2. KMeans Elbow Method
 
