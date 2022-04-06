@@ -92,6 +92,9 @@ Code: [Code][logistic]
 
 ### 1. KMeans
 
+- KMeans(StockPattern)
+- KMeans_Clustering
+
 <!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
@@ -105,7 +108,9 @@ Code: [Code][kmeans]
 
 ### 2. KMeans Elbow Method
 
-<details>
+- Kmens eblow method
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -114,11 +119,13 @@ Code: [Code][KMeans Elbow Method]
 [KMeans Elbow Method]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/KMeans%20Elbow%20Method
 
 </div>
-</details>
+</details> -->
 
 ### 3. Silhouette
 
-<details>
+- Silrouette(Kmeans)
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -127,11 +134,15 @@ Code: [Code][Silrouette]
 [Silrouette]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/Silrouette
 
 </div>
-</details>
+</details> -->
 
 ### 4. KMeans++
 
-<details>
+- KMeans++(StockPattern)
+- KMeans++
+- KMeans++(mnist)
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -140,11 +151,13 @@ Code: [Code][kmeans++]
 [kmeans++]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/KMeans%2B%2B
 
 </div>
-</details>
+</details> -->
 
 ### 5. H-Cluster
 
-<details>
+- H-Clustering
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -153,11 +166,13 @@ Code: [Code][h-cluster]
 [h-cluster]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/H-Clustering
 
 </div>
-</details>
+</details> -->
 
 ### 6. DBSCAN
 
-<details>
+- DBSCAN
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -166,11 +181,14 @@ Code: [Code][dbscan]
 [dbscan]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/DBSCAN
 
 </div>
-</details>
+</details> -->
 
 ### 7. Means shift
 
-<details>
+- Means shift-1
+- Means shift-2
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -179,11 +197,13 @@ Code: [Code][meanshift]
 [meanshift]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/MeanShift
 
 </div>
-</details>
+</details> -->
 
 ### 8. Gaussian Mixture Model(GMM)
 
-<details>
+- Gaussian Mixture Model(GMM)
+
+<!-- <details>
 <summary>Click!</summary>
 <div markdown="1">
   
@@ -192,7 +212,7 @@ Code: [Code][Gaussian]
 [Gaussian]: https://github.com/hyunicecream/ML-DL/tree/main/Clustering/Gaussian
 
 </div>
-</details>
+</details> -->
 
 ## Chapter3.  앙상블(Ensemble)(**Update예정**)
 
