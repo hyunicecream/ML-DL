@@ -388,7 +388,7 @@ Code: [Code][CNN]
 - Bidirectional 양방향 many to many
 - Bidirectional 양방향 many to one
 - LSTM 삼성전자 주가 예측
-- 단방향 Many to One
+- 단방향 many to one
 - 단방향 many to many
 
 <!-- 
